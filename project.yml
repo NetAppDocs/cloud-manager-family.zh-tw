@@ -2,7 +2,7 @@
 settings:
   name: Cloud Manager
   platform: cloud
-  search: clouddocs-cloud-manager-relnotes_main-prod,clouddocs-cloud-manager-setup-admin_main-prod,clouddocs-cloud-manager-cloud-volumes-ontap_main-prod,clouddocs-cloud-manager-ontap-onprem_main-prod,clouddocs-cloud-manager-azure-netapp-files_main-prod,clouddocs-cloud-manager-fsx-ontap_main-prod,clouddocs-cloud-manager-cloud-volumes-service-aws_main-prod,clouddocs-cloud-manager-cloud-volumes-service-gcp_main-prod,clouddocs-cloud-manager-kubernetes_main-prod,clouddocs-cloud-manager-app-template_main-prod,clouddocs-cloud-manager-backup-restore_main-prod,clouddocs-cloud-manager-snapcenter_main-prod,clouddocs-cloud-manager-sync_main-prod,clouddocs-cloud-manager-data-sense_main-prod,clouddocs-cloud-manager-tiering_main-prod,clouddocs-cloud-manager-ransomware_main-prod,clouddocs-cloud-manager-replication_main-prod,clouddocs-cloud-manager-monitoring_main-prod,clouddocs-cloud-manager-file-cache_main-prod,clouddocs-cloud-manager-compute_main-prod,clouddocs-cloud-manager-automation_main-prod,clouddocs-cloud-volumes-ontap-relnotes_main-prod
+  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-snapcenter,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-monitoring,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes
   internal:
     pdf_enabled: true
   prod:
